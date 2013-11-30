@@ -1,5 +1,0 @@
-[
-	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
-	{ "keys": [""], "command": "insert_snippet", "args": {"name": "coding.sublime-snippet"} },
-	{ "keys": ["ctrl+alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"} }
-]
