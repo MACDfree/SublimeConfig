@@ -16,3 +16,4 @@ coding.sublime-snippet
 * BracketHighlighter
 * Markdown Preview
 * Theme - Soda
+* MasmAssembly
